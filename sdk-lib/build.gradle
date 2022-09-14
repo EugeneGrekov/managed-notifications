@@ -34,7 +34,7 @@ afterEvaluate {
 
                 groupId = 'com.messages.guru'
                 artifactId = 'managed-notifications'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
